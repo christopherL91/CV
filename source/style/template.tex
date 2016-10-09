@@ -1,0 +1,42 @@
+% !TEX TS-program = lualatex
+\documentclass[10pt,a4paper]{article}
+\usepackage[a4paper,margin=0.75in]{geometry}
+\usepackage[english]{babel}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{resume}
+\usepackage{fontawesome}
+
+%   Pandoc compat
+\def\tightlist{}
+
+\begin{document}
+\sloppy
+
+\maintitle{$name$}{\faMale \hspace{1mm} $birthday$}{}
+
+\nobreakvspace{0.3em}
+
+\noindent \faSend \hspace{1mm} \href{mailto:$email$}{$email$}\sbull
+\faPhoneSquare \hspace{1mm} $phone$ \sbull
+\faLinkedinSquare \hspace{1mm} \href{$linkedin$}{$linkedin$}
+\\\\
+\faMap \hspace{1mm} $street$\sbull
+$postcode$\thinspace\sbull
+$city$\sbull
+$country$\hfill
+\smash{
+    \tikz\node[circle,draw,
+            minimum size=2cm,inner sep=3pt,
+            path picture={
+                \node at (path picture bounding box.center){
+                   \includegraphics[width=2cm]{$profile$}
+                };
+            }]{};
+}
+
+\spacedhrule{0.9em}{-0.4em}
+
+$body$
+
+\end{document}
