@@ -2,6 +2,7 @@
 name: Christopher Lillthors
 birthday: 5 Oct 1991
 linkedin: https://goo.gl/1k5cO4
+github: https://github.com/christopherL91
 street: Slåttervallsgatan 10
 country: Sweden
 city: Stockholm
@@ -16,25 +17,19 @@ profile: christopher.jpg
 2016--2018 (expected)
 :   **MSc, Interactive Media Technology (Computer Science)**; Royal Institute Of Technology
 
-*   DT2350 Human Perception for Information Technology
+**Key Subjects:**
+
+> Visualization, Web Development, Human Computer Interactions
 
 2013--2016
 :   **BSc, Computer Science**; Royal Institute Of Technology
 
-> Part of the computer science engineering programme.
-> The
+**Key Subjects:**
 
-**Some of the courses taken:**
+> Software Engineering, Database technologies, Algorithms, Data Structures and
+> Complexity, Operating Systems, Team Leadership and Human Resource Management
 
-*   DD1339 Introduction to Computer Science
-*   DD1368 Database Technology
-*   DD1352 Algorithms, Data Structures and Complexity
-*   ME2063 Team Leadership and Human Resource Management
-*   DD1392 Introduction to Software Engineering
-*   DM2578 Social Media Technologies
-*   ME1003 Industrial Management, Basic Course
-
-**Degree project:**
+**Degree Project:**
 
 > Comparing ALS And SGD Over A Variable Number Of Latent Features Using
 > Graphlab Create's Factorization Machine
@@ -59,53 +54,43 @@ profile: christopher.jpg
     *   Proficient: Go, Javascript, Java, C/C++, Python.
     *   Familiar with: Haskell, Erlang, Prolog, Scala.
 
-*   Tools:
-
-    *   Docker
-    *   ELK-Stack
-
 *   Version Control: Git
+*   Databases: MongoDB, RethinkDB, CouchDB, PostgreSQL
+*   Operating Systems: Mac OS, Gnu/Linux
 
-*   Databases:
-
-    *   MongoDB
-    *   RethinkDB
-    *   CouchDB
-    *   PostgreSQL
-
-*   Operating Systems:
-
-    *   Mac OS
-    *   Gnu/Linux
-
-#   Relevant Work Experience {-}
+#   Professional Experience {-}
 
 2015--Present
 :   **Devops engineer**; The Quality Advertisement Company (QUAD)
 
-> Develop and maintain a group of highly distributed applications using node, go and scala.
-> Build a scalable network using Docker, VMware vCloud and various other tools.
+> Develop and maintain a group of highly distributed applications using a combination of
+> node, go and scala.
+> Build a scalable network using Docker, Vmware vCloud, AWS and various other tools.
 > Manage all phases of software development, from coding and prototyping through
 > testing and deployment.
 
 Accomplishments:
 
-*   Handle hundred of thousands of requests every day and successfully
-    store the results in a database for further analysis.
-*   Use docker swarm to scale the infrastructure when needed to handle requests
-    from Sweden's biggest news sites.
-*   Create a responsive web application using react, redux and d3 to consume and
-    the visualize the analyzed data in near realtime.
+*   Boost the effectives and performance of the system by using technologies
+    targeted at multi core processors, gaining near 2x the speed.
+*   Manage up to 20 computers using docker swarm to scale the infrastructure
+    when needed to handle hundred of thousands of requests from Sweden's biggest news sites.
+*   Developed a responsive web application using modern web technologies such as react,
+    redux and d3 to consume and visualize the huge amount of data produced from
+    ads.
+*   Supervise the infrastructure in near realtime using tools such as the ELK-stack
+    and Datadog to effectively discover pitfall and strengthen the infrastructure.
 
-#   Other Work Experiences {-}
+#   Other Experiences {-}
 
 2010--2011
 :   **Military Service**; Swedish Armed Forces
 
-The army gave
-
 2007--2015
 :   **Shop assistant**; Hemköp Wasahallen
+
+Part time job, worked mainly on the floor unpacking the deliveries that came
+in the morning and when needed assist in the checkout.
 
 #   Positions Of Responsibility {-}
 
@@ -120,7 +105,7 @@ The army gave
 
 *   Sport: Enjoy badminton and cross country skiing.
 *   Travel: Travelled to various parts of Europe and America.
-*   Other: Watching baseball.
+*   Other: Watching baseball and exercise.
 
 #   Language Skills {-}
 
