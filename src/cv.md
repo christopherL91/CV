@@ -60,7 +60,16 @@ profile: christopher.jpg
 
 #   Professional Experience {-}
 
-2015--Present
+2016--present
+:   **Devops engineer**; Advinans AB
+
+> Programming
+
+Accomplishments:
+
+*   Kubernetes
+
+2015--2016
 :   **Devops engineer**; The Quality Advertisement Company (QUAD)
 
 > Develop and maintain a group of highly distributed applications using a combination of

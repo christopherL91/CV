@@ -1,8 +1,8 @@
-#   CV Christopher Lillthors
+#   CV
 
 ```bash
 
     $ make pdf
-    $ open outout/cv.pdf
+    $ open output/cv.pdf
 
 ```
